@@ -65,8 +65,7 @@ rl.question('Digite o primeiro número: ', (number1) => {
             console.log('Preencha os dados corretamente!');
             rl.close();
             return;
-          } 
-            
+          }             
       }
     });
   });
